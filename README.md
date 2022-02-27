@@ -8,10 +8,10 @@ A) parsing for flags, field_width, precision, length_modifier.
 
 B) parsing for conversion specifier.
 
-C) displaying UTF-8 characters. (%C and %S).
+C) displaying UTF-8 characters. (%c and %s).
 
-D) computing unsigned numbers in base 2 (%b), 8 (%o), 10 (%u) and 16 (%x).
+D) computing unsigned numbers in base 10 (%u) and 16 (%x) (%X).
 
-E) displaying signed numbers (%d %D %i).
+E) displaying signed numbers (%d  %i).
 
 F) displaying pointer address (%p).
